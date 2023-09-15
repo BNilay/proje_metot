@@ -1,0 +1,10 @@
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\bin\Debug\proje_metot.exe.config
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\bin\Debug\proje_metot.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\bin\Debug\proje_metot.pdb
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\obj\Debug\proje_metot.csproj.AssemblyReference.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\obj\Debug\proje_metot.Form1.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\obj\Debug\proje_metot.Properties.Resources.resources
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\obj\Debug\proje_metot.csproj.GenerateResource.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\obj\Debug\proje_metot.csproj.CoreCompileInputs.cache
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\obj\Debug\proje_metot.exe
+C:\Users\aberk\OneDrive\Masaüstü\BNY\odev_ogr_app\proje_metot\proje_metot\obj\Debug\proje_metot.pdb
